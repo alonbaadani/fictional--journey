@@ -1,0 +1,36 @@
+@model IReadOnlyList<fictional__journey.Models.Employee>
+@{
+    ViewData["Title"] = "Employee Directory";
+}
+
+<div class="container py-4">
+    <h1 class="mb-4">@ViewData["Title"]</h1>
+
+    <div class="card shadow-sm border-0">
+        <div class="card-body p-0">
+            <table class="table table-striped table-hover mb-0 align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Hiring Date</th>
+                        <th>Department</th>
+                        <th>Job Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+                @foreach (var employee in Model)
+                {
+                    <tr>
+                        <td>@employee.FirstName</td>
+                        <td>@employee.LastName</td>
+                        <td>@employee.HiringDate.ToString("yyyy-MM-dd")</td>
+                        <td>@employee.Department</td>
+                        <td>@employee.JobTitle</td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

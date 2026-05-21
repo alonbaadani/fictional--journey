@@ -1,0 +1,72 @@
+[
+  {
+    "FirstName": "Avery",
+    "LastName": "Mitchell",
+    "HiringDate": "2019-03-18",
+    "Department": "Engineering",
+    "JobTitle": "Software Engineer"
+  },
+  {
+    "FirstName": "Jordan",
+    "LastName": "Nguyen",
+    "HiringDate": "2020-07-11",
+    "Department": "Product",
+    "JobTitle": "Product Manager"
+  },
+  {
+    "FirstName": "Riley",
+    "LastName": "Patel",
+    "HiringDate": "2018-11-05",
+    "Department": "Human Resources",
+    "JobTitle": "HR Specialist"
+  },
+  {
+    "FirstName": "Morgan",
+    "LastName": "Reed",
+    "HiringDate": "2021-01-25",
+    "Department": "Finance",
+    "JobTitle": "Financial Analyst"
+  },
+  {
+    "FirstName": "Casey",
+    "LastName": "Lopez",
+    "HiringDate": "2017-09-14",
+    "Department": "Sales",
+    "JobTitle": "Account Executive"
+  },
+  {
+    "FirstName": "Taylor",
+    "LastName": "Brooks",
+    "HiringDate": "2022-04-04",
+    "Department": "Marketing",
+    "JobTitle": "Marketing Coordinator"
+  },
+  {
+    "FirstName": "Skyler",
+    "LastName": "Chen",
+    "HiringDate": "2016-06-20",
+    "Department": "Operations",
+    "JobTitle": "Operations Manager"
+  },
+  {
+    "FirstName": "Quinn",
+    "LastName": "Wright",
+    "HiringDate": "2023-02-13",
+    "Department": "Customer Support",
+    "JobTitle": "Support Engineer"
+  },
+  {
+    "FirstName": "Parker",
+    "LastName": "Diaz",
+    "HiringDate": "2015-12-01",
+    "Department": "IT",
+    "JobTitle": "Systems Administrator"
+  },
+  {
+    "FirstName": "Emerson",
+    "LastName": "Kim",
+    "HiringDate": "2024-08-19",
+    "Department": "Legal",
+    "JobTitle": "Legal Counsel"
+  }
+]
